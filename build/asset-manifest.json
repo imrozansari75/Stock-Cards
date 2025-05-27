@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Stock-Cards/static/css/main.e860d993.css",
+    "main.js": "/Stock-Cards/static/js/main.11f826ae.js",
+    "static/js/453.146c5bc5.chunk.js": "/Stock-Cards/static/js/453.146c5bc5.chunk.js",
+    "index.html": "/Stock-Cards/index.html",
+    "main.e860d993.css.map": "/Stock-Cards/static/css/main.e860d993.css.map",
+    "main.11f826ae.js.map": "/Stock-Cards/static/js/main.11f826ae.js.map",
+    "453.146c5bc5.chunk.js.map": "/Stock-Cards/static/js/453.146c5bc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e860d993.css",
+    "static/js/main.11f826ae.js"
+  ]
+}
